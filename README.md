@@ -25,7 +25,7 @@ An interactive **iOS Quiz Application** built with **SwiftUI** and **Firebase**,
 
 | Splash & Auth | Home | Quiz | Leaderboard |
 |---------------|------|------|-------------|
-| ![Auth](screenshots/auth.png) | ![Home](screenshots/home.png) | ![Quiz](screenshots/quiz.png) | ![Leaderboard](screenshots/leaderboard.png) |
+| ![Auth](Screenshots/auth.png) | ![Home](Screenshots/home.png) | ![Quiz](Screenshots/quiz.png) | ![Leaderboard](Screenshots/leaderboard.png) |
 
 ---
 
